@@ -84,7 +84,11 @@ Currently expanding my horizons at **UNED Costa Rica**, pursuing dual degrees in
 ### 📊 Actividad en GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=thetebis-wq&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de Esteban Alfaro" height="165" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=thetebis-wq&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=thetebis-wq&theme=tokyonight&hide_border=true" alt="Racha de contribuciones" height="165" />
+</div>
+<br/>
+<div align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=thetebis-wq&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" height="165" />
 </div>
 
