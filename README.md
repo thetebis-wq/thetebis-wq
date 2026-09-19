@@ -1,6 +1,6 @@
 <div align="center">
 
-# ¡Hola! / Hello! I'm Esteban Alfaro 👋
+# ¡Hola! / Hello! I'm Esteban 👋
 ### 📊 Project Analyst @ HPE | Agile & Business Analysis | AI-Native Solutions Builder
 **Learning in the Making • Dual Degree Student: Business Administration & Computer Science @ UNED Costa Rica**
 
